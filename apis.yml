@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://pixelencounter.com/api
 common:
+  - type: VulnerabilityDisclosure
+    url: security/pixel-encounter-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/pixel-encounter-domain-security.yml
   - type: Website
     url: https://pixelencounter.com/api
   - type: PublicAPIsListing
