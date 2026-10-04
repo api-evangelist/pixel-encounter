@@ -33,13 +33,13 @@ x-category: "Art & Design"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Art And Design
   - Public APIs
+  - Icons
+  - Image Generation
 apis:
   - name: Pixel Encounter
     description: "SVG Icon Generator"
     humanURL: https://pixelencounter.com/api
-    baseURL: https://pixelencounter.com/api
     tags:
       - Art And Design
     properties:
@@ -57,3 +57,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Art And Design
