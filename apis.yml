@@ -40,7 +40,8 @@ apis:
   - name: Pixel Encounter
     description: "SVG Icon Generator"
     humanURL: https://pixelencounter.com/api
-    tags:
+    tags: []
+    tags_raw:
       - Art And Design
     properties:
       - type: Documentation
